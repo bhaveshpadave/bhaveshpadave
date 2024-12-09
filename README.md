@@ -5,7 +5,7 @@
 - 👨‍💻 I'm working on a Springboot application/ Microservices
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me imbhaveshpadave@gmail.com
+- 📫 How to reach me bhaveshpadave97@gmail.com
 
 <!---
 bhaveshdotpadave/intro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
